@@ -1,4 +1,4 @@
-<h1 align="center">Move Mate</h1>
+<h1 align="center">MoveMate</h1>
 <p align="center">
   <img src="https://github.com/pdshi/.github/assets/85666915/a97ba559-345d-4d5e-bbcc-9af4be126a8f" alt="MoveMate Logo">
 </p>
