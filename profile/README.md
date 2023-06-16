@@ -25,7 +25,7 @@
 MoveMate is a mobile application designed to help users generate an optimal workout plan based on user information and exercise with the correct form by utilizing their smartphone's camera to detect and analyze their forms.
 
 ## Repository Structure
-- `MoveMate-Android`: This repository contains MoveMate's android application
-- `movemate-backend`: This repository contains MoveMate's backend and API
-- `wo-planner-model`: This repository contains MoveMate's workout planner and activity recognition model
-- `activity-recognition-model`: This repository contains MoveMate's pose classifier model
+- [`MoveMate-Android`](https://github.com/pdshi/MoveMate-Android): This repository contains MoveMate's android application
+- [`movemate-backend`](https://github.com/pdshi/movemate-backend): This repository contains MoveMate's backend and API
+- [`wo-planner-model`](https://github.com/pdshi/wo-planner-model): This repository contains MoveMate's workout planner and activity recognition model
+- [`activity-recognition-model`](https://github.com/pdshi/activity-recognition-model): This repository contains MoveMate's pose classifier model
