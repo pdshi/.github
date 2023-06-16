@@ -15,6 +15,7 @@
 | Steven Nathaniel T | Mobile Development |
 | Ariq Pradipa Santoso | Cloud Computing |
 | Alya Fitria | Cloud Computing |
+| Vistar Tiop Raja Gukguk | Mobile Development |
 
 ## Table of Contents
 
