@@ -1,5 +1,20 @@
-![image](https://github.com/pdshi/.github/assets/85791158/20da3d4c-d0d5-4958-a00c-957b13e4e484)
-# Welcome to MoveMate's Main Repository
+<h1 align="center">Move Mate</h1>
+<p align="center">
+  <img src="https://github.com/pdshi/.github/assets/85666915/a97ba559-345d-4d5e-bbcc-9af4be126a8f" alt="MoveMate Logo">
+</p>
+<h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
+<h4 align="center">An AI Way of Living Healthy</h4>
+<br>
+
+## Introduction
+### Team ID: C23-PS188
+| Name | Learning Path |
+| :---: | :---: |
+| Benedicto Matthew W | Machine Learning |
+| Maheswara AW | Machine Learning |
+| Steven Nathaniel T | Mobile Development |
+| Ariq Pradipa Santoso | Cloud Computing |
+| Alya Fitria | Cloud Computing |
 
 ## Table of Contents
 
